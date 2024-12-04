@@ -33,7 +33,7 @@
                     <div class="col-md-4">
                         <div class="profile-work">
                             <p>WORK LINK</p>
-                            <a href="https://www.facebook.com/hthkim0812">Facebook Link</a><br/>
+                            <a href="https://www.facebook.com/profile.php?id=100094158013666&locale=vi_VN">Facebook Link</a><br/>
                         </div>
                     </div>
                     <div class="col-md-8">
