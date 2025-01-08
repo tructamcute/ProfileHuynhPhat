@@ -2,7 +2,36 @@
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <!------ Include the above in your HEAD tag ---------->
-
+<head>
+     <style>
+	h1 {
+            display:none;
+            }
+	.tim {
+          height: 100%;
+          width: device-width;
+          padding: 0;
+          margin: 0;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+        canvas {
+          position: absolute;
+          width: device-width;
+          height: 450px;
+          display: flex;
+      justify-content: center;
+      align-items: center; 
+        }
+        .chu {
+          color: rgb(105, 196, 53);
+          padding-top: 20%;
+          text-align: center;
+        }
+</style>
+</head>
+<body>
 <div class="container emp-profile">
             <form method="post">
                 <div class="row">
@@ -75,3 +104,4 @@
                             </div>
                 </div>   
         </div>
+</body>
